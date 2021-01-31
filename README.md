@@ -1,5 +1,7 @@
 # Hi there 👋
 
+Blog: https://danielpecos.com
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dpecos)
 
 <!--
